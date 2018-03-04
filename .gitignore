@@ -1,0 +1,5 @@
+# IDE configuration
+src/.idea/
+
+# Virtual environment
+src/venv/
